@@ -1,0 +1,9 @@
+[package]
+name = "stlink-probe-bug"
+version = "0.1.0"
+authors = ["disasm"]
+edition = "2018"
+
+[dependencies]
+probe-rs = "0.5.0"
+pretty_env_logger = "0.3"
